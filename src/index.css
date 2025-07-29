@@ -1,0 +1,14 @@
+.start-rating {
+  font-size: 24px;
+}
+
+.start {
+  cursor: pointer;
+}
+
+.start.hover {
+  color: gold;
+}
+.start.active {
+  color: orange;
+}
